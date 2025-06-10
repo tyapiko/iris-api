@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (if large)
+# *.pkl 本来は含める必要があるが、今回はモデルが小さいためgitに上げる
